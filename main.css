@@ -1,0 +1,65 @@
+html {
+    background-color: black;
+}
+
+.bluebox {
+    width: 850px;
+    background-color: blue;
+    height: 200px;
+    margin: auto;
+}
+
+.whitebox {
+    width: 850px;
+    background-color: white;
+    height: 50px;
+    margin: auto;
+}
+
+.facebox {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    left: 20px;
+    top: 130px;
+    border: 2px solid black;
+}
+
+h1 {
+    position: absolute;
+    padding-left: 335px;
+    top: 125px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+}
+
+h2 {
+    position: absolute;
+    Padding-left: 335px;
+    top: 175px;
+    color: black;
+    font-size: small;
+}
+
+a:link {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.wrap {
+    width: 850px;
+    height: 250px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.btn-group {
+        border: 1px solid black; 
+        color: white; 
+        padding-left: 475px; 
+        cursor: pointer; 
+       
+}
